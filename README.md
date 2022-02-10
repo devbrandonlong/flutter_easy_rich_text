@@ -1,4 +1,4 @@
-# easy_rich_text
+# easy_rich_text_testing
 
 [![pub package](https://img.shields.io/pub/v/easy_rich_text.svg)](https://pub.dev/packages/easy_rich_text) [![GitHub license](https://img.shields.io/github/license/2000calories/flutter_easy_rich_text)](https://github.com/2000calories/flutter_easy_rich_text/blob/master/LICENSE) [![GitHub stars](https://img.shields.io/github/stars/2000calories/flutter_easy_rich_text)](https://github.com/2000calories/flutter_easy_rich_text/stargazers)
 
